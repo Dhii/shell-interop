@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Dhii\\ShellInterop": "src/"
+            "Dhii\\ShellInterop\\": "src/"
         }
     }
 }
