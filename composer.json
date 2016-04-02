@@ -1,0 +1,19 @@
+{
+    "name": "dhii/shell-interop",
+    "description": "A standard for shell wrapper interoperability",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhii Team",
+            "email": "development@dhii.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dhii\\ShellInterop": "src/"
+        }
+    }
+}
